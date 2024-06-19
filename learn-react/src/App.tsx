@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>Hello React + Ts</h1>
-      <h1>My </h1>
+      <h1>My {Name} </h1>
     </>
   )
 }

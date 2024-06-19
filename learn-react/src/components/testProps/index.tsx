@@ -14,7 +14,7 @@ interface props {
 function TestProps(value:props){
      return (
          <div>
-            <h1 title="this props ">{value.description}</h1>
+            <h1 title="this props">{value.description}</h1>
          </div>
      );
 }

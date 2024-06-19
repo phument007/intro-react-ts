@@ -1,10 +1,11 @@
 
 function App() {
-
+  let Name:string = "Phument";
   return (
-    <div>
-      <h1>Hello React </h1>
-    </div>
+    <>
+      <h1>Hello React + Ts</h1>
+      <h1>My </h1>
+    </>
   )
 }
 

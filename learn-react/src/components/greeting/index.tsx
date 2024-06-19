@@ -1,9 +1,10 @@
-function Greeting(): any {
+const Function1 = () :any => {
 
     return (
-        <div>
-            <h1>Hello React Type Script</h1>
-        </div>
+        <>
+        <h1>This is Greeting Hero Function</h1>
+        </>
     );
 }
-export default Greeting;
+
+export default Function1
